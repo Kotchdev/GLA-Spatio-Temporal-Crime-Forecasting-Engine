@@ -1,6 +1,6 @@
-# **🚧 Project Status: Under Active Development**
 
-# 📊 GLA Urban Intelligence Fusion
+
+# 📊 GLA-Spatio-Temporal-Crime-Forecasting-Engine
 **Predictive Crime Analytics & Multi-Modal Safety Modelling for Greater London**
 
 ![Project Status](https://img.shields.io/badge/Status-In--Progress-orange)
