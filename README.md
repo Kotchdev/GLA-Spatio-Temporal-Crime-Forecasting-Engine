@@ -20,17 +20,17 @@ The goal is to provide actionable intelligence through:
 ## 🏗️ Project Architecture & Task Breakdown
 Our group followed a modular development workflow, divided into three core pillars:
 
-### 🔹 Part 1: Data Fusion & Correlation (Lead: [Your Name/Teammate])
+### 🔹 Part 1: Data Fusion & Correlation 
 * **Objective:** Establish the relationship between crime on transport networks vs. crime within the boroughs.
 * **Tech:** `Pandas`, `NumPy`, `SciPy`.
 * **Key Outcome:** Statistical validation of multi-modal crime correlations, identifying "high-friction" transit hubs.
 
-### 🔹 Part 2: Spatio-Temporal Visualisation (Lead: [Teammate Name])
+### 🔹 Part 2: Spatio-Temporal Visualisation 
 * **Objective:** Transform static data into dynamic insights using geospatial mapping.
 * **Tech:** `Geopandas`, `Plotly Express`, `Folium`.
 * **Key Outcome:** Animated choropleth maps showing the evolution of crime hotspots over time across 32 London boroughs.
 
-### 🔹 Part 3: Predictive Suitability Engine (Lead: [Teammate Name])
+### 🔹 Part 3: Predictive Suitability Engine 
 * **Objective:** Build and evaluate a predictive model to forecast future crime trends.
 * **Tech:** `Scikit-Learn`, `XGBoost`, `Statsmodels`.
 * **Key Outcome:** A critical assessment of model performance, determining the feasibility of algorithmic crime forecasting for city planning.
