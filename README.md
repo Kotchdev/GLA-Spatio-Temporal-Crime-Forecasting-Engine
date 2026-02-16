@@ -5,7 +5,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-In--Progress-orange)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Data Source](https://img.shields.io/badge/Data-GLA%20%7C%20MOPAC-green)
+![Data Source](https://img.shields.io/badge/Data-GLA%20%7C%20)
 
 ## 📋 Executive Summary
 This project delivers an end-to-end data science pipeline to analyse and forecast crime patterns across Greater London. By integrating disparate datasets from the **Greater London Authority (GLA)** and **Transport for London (TfL)**, our team has developed a "Fusion" engine that correlates transit-related incidents with borough-level safety metrics.
